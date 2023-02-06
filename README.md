@@ -79,8 +79,8 @@ Create an order from Front End input. It also calls a function from the stock ap
  /order
  
 #Body:
-{	"userId":"user_id_1", 	#Id of user
-	"items": [{				#Itens array 
+{	"userId":"user_id_1", 		#Id of user
+	"items": [{			#Itens array 
 		"productId":1,  	#The sample product list has 10 products (Id: 1 - 10) 
 		"quantity":1		#The sample avaliable quantity is  ( Id * 5 )
 	}]                      
