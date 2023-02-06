@@ -55,7 +55,18 @@ $ npm  run  start
 $ npm  run  start:dev
 ```
 
-  
+## Swagger Documentation
+```bash
+#marketplace-3
+http://localhost:3000/api-docs
+
+#stock-2
+http://localhost:3001/api-docs 
+
+```
+
+
+
 
 ## Order Module
 
